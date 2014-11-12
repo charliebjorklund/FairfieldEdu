@@ -1157,7 +1157,7 @@ Media Queries
 
 
 @media screen and (max-width: 959px) {
- 	#top-nav-container { padding: 15px 0 10px 0; }
+ 	#top-nav-container { padding: 15px 0 5px 0; }
   
  	#news-cal-nav { float: left; width: auto; }
  	#audience-nav { float: right; text-align: left; }
@@ -1166,7 +1166,7 @@ Media Queries
  	#news-cal-nav li { padding: 0 5px 0 0; }
  	#audience-nav li { padding: 0 5px 0 0; }
   
- 	#search-btn { left: 10px; position: relative; top: 13px; }
+ /*	#search-btn { left: 10px; position: relative; top: 13px; }*/
   
  	#main-container > .callout-nav { top: -50px; }
   
